@@ -39,6 +39,10 @@
 - Visual Studio Code
 - WordPress
 
+<br />
+![RealSollyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true)
+
+
 <br /><br />
 
 [website]: https://sollym.co.za
