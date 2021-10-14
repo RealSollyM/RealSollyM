@@ -40,7 +40,7 @@
 - WordPress
 
 <br />
-![RealSollyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true)
+[RealSollyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true)
 
 
 <br /><br />
