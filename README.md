@@ -40,7 +40,8 @@
 - WordPress
 
 <br />
-<img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /><img align="left" alt="RealSollyM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" />
+<a href="https://stackoverflow.com/users/1168597/realsollym" target="_blank">
+<img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /><img align="left" alt="RealSollyM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /></a>
 
 
 <br /><br />
