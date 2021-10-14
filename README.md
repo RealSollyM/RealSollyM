@@ -13,16 +13,13 @@
   - Long Term: Start a Coding Club in my area for upcoming developers.
 
 ### Contact Me
-<div style="background-color: white;">
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<div style="background-color: white;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></div>][website]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/stackoverflow.svg" />][StackOverflow]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="RealSollyM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/instagram.svg" />][Instagram]
-
-</div>
 <br />
 
 ### Languages, Frameworks and Tools:
