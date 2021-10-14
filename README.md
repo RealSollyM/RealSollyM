@@ -40,9 +40,9 @@
 - WordPress
 
 <br />
-<img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true" />
+<img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" />
 
-<img align="left" alt="MogenPty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mogenpty&count_private=true&show_icons=true" />
+<img align="left" alt="RealSollyM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogenpty&count_private=true&show_icons=true&theme=midnight-purple" />
 
 
 <br /><br />
