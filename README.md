@@ -43,6 +43,8 @@
 <a href="https://stackoverflow.com/users/1168597/realsollym" target="_blank">
 <img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /><img align="left" alt="RealSollyM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /></a>
 
+<br clear="all" />
+<a href="https://stackoverflow.com/users/1168597/realsollym"><img src="https://stackoverflow.com/users/flair/1168597.png" width="416" height="116" alt="profile for RealSollyM at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for RealSollyM at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <br /><br />
 
