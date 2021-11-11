@@ -1,5 +1,9 @@
 ## Hello, my name is Solly Motsoane (RealSollyM)
 
+[![GitHub followers](https://img.shields.io/github/followers/RealSollyM?logo=GitHub&style=for-the-badge)][GitHub]
+[![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=Views&color=blue&style=flat-square)][GitHub]
+[![Linkedin: RealSollyM](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
+
 ### I am a Senior Software Developer with over 20 years of programming in different languages
 - 🔭 I’m currently working on ...
   - a CrowdFunding App,
@@ -65,6 +69,7 @@
 [Twitter]: https://twitter.com/RealSollyM
 [Facebook]: https://facebook.com/RealSollyM
 [Instagram]: https://www.instagram.com/RealSollyM
+[GitHun]: https://www.github.com/RealSollyM
 
 
 
