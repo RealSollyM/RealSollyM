@@ -1,7 +1,7 @@
 ## Hello, my name is Solly Motsoane (RealSollyM)
 
 [![GitHub followers](https://img.shields.io/github/followers/RealSollyM?logo=GitHub&style=for-the-badge)][GitHub]
-[![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=Views&color=blue&style=flat-square)][GitHub]
+[![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
 
 ### I am a Senior Software Developer with over 20 years of programming in different languages
@@ -20,7 +20,8 @@
 
 ### Contact Me
 [<div style="background-color: white;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>][website]
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" />][StackOverflow]
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" />][StackOverflow] 
+![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1168597?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)
 [<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][Twitter]
