@@ -69,7 +69,7 @@
 [Twitter]: https://twitter.com/RealSollyM
 [Facebook]: https://facebook.com/RealSollyM
 [Instagram]: https://www.instagram.com/RealSollyM
-[GitHun]: https://www.github.com/RealSollyM
+[GitHub]: https://www.github.com/RealSollyM
 
 
 
