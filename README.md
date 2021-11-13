@@ -21,12 +21,12 @@
 [<div style="background-color: white;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&url=https://mogen.co.za)][website] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" /> 
 ![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1168597?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />![Telegram: RealSollyM](https://img.shields.io/badge/-FOLLOW%20@RealSollyM-grey?style=for-the-badge&logo=Telegram&link=https://t.me/RealSollyM/)][Telegram] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 ![Twitter Follow](https://img.shields.io/twitter/follow/RealSollyM?color=blue&logo=twitter&style=for-the-badge)][Twitter] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][Facebook] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][Instagram]
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />![Facebook: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-4500%2B-blue?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/RealSollyM/)][Facebook] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />![Instagram: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-950%2B-red?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/RealSollyM/)][Instagram]
 <br />
 
 ### Languages, Frameworks and Tools:
