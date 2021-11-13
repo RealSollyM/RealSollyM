@@ -1,7 +1,6 @@
-## Hello, my name is Solly Motsoane (RealSollyM)
+## Hello, my name is Solly Motsoane (RealSollyM) [![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
 
 [![GitHub followers](https://img.shields.io/github/followers/RealSollyM?logo=GitHub&style=for-the-badge)][GitHub]
-[![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
 
 ### I am a Senior Software Developer with over 20 years of programming in different languages
@@ -19,13 +18,14 @@
   - Long Term: Start a Coding Club in my area for upcoming developers.
 
 ### Contact Me
-[<div style="background-color: white;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>][website]
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" />][StackOverflow] 
-![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1168597?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)
-[<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][Twitter]
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][Facebook]
+[<div style="background-color: white;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&url=https://mogen.co.za)][website] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" /> 
+![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1168597?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
+![Twitter Follow](https://img.shields.io/twitter/follow/RealSollyM?color=blue&logo=twitter&style=for-the-badge)][Twitter] <br />
+[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][Facebook] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][Instagram]
 <br />
 
