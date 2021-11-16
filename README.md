@@ -5,7 +5,7 @@
 
 ### I am a Senior Software Developer with over 20 years of programming in different languages
 - 🔭 I’m currently working on ...
-  - a CrowdFunding App,
+  - a Stokvel App, 
 - which will be followed by ...
   - a Shopping Manager App
   - a Budget Management App
