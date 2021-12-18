@@ -1,4 +1,4 @@
-## Hello, my name is Solly Motsoane (RealSollyM) [![GitHub Provile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
+## Hello, my name is Solly Motsoane (RealSollyM) [![GitHub Provile Views](ttps://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
 
 [![GitHub followers](https://img.shields.io/github/followers/RealSollyM?logo=GitHub&style=for-the-badge)][GitHub]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
