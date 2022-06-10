@@ -20,7 +20,7 @@
 ### Contact Me
 [<div style="background-color: white !important;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" /> 
-![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1168597?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow] <br />
+![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />![Telegram: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-500%2B-blue?style=for-the-badge&logo=Telegram&link=https://t.me/RealSollyM/)][Telegram] <br />
 [<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
