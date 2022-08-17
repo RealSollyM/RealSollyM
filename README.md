@@ -1,9 +1,6 @@
-## Hello, my name is Solly Motsoane (RealSollyM) [![GitHub Profile Views](https://komarev.com/ghpvc/?username=RealSollyM&label=PROFILE+VIEWS&color=blue&style=flat-square)][GitHub]
+## Hello, my name is Solly Motsoane (RealSollyM)
 
-[![GitHub followers](https://img.shields.io/github/followers/RealSollyM?logo=GitHub&style=for-the-badge)][GitHub]
-[![Linkedin: RealSollyM](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
-
-### I am a Senior Software Developer with over 20 years of programming in different languages
+### I am a Senior Software Developer with over 20 years of programming in different languages.
 - 🔭 I’m currently working on ...
   - a Stokvel App, 
 - which will be followed by ...
@@ -17,16 +14,11 @@
   - Short Term: Teach at least 1 person to code.
   - Long Term: Start a Coding Club in my area for upcoming developers.
 
+---
 ### Contact Me
-[<div style="background-color: white !important;"><img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></div>![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9cd02d2b1e7afc18a6e69c0648160662db200f2e/topics/stackoverflow/stackoverflow.png" /> 
-![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />![Telegram: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-500%2B-blue?style=for-the-badge&logo=Telegram&link=https://t.me/RealSollyM/)][Telegram] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
-![Twitter Follow](https://img.shields.io/twitter/follow/RealSollyM?color=blue&logo=twitter&style=for-the-badge)][Twitter] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />![Facebook: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-4500%2B-blue?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/RealSollyM/)][Facebook] <br />
-[<img align="left" alt="RealSollyM" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />![Instagram: RealSollyM](https://img.shields.io/badge/FOLLOW%20@RealSollyM-950%2B-red?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/RealSollyM/)][Instagram]
+[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow]
+[![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
+[![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website]
 <br />
 
 ### Languages, Frameworks and Tools:
