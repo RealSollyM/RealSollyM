@@ -38,8 +38,8 @@
 <img align="left" alt="Git" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Javascript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
 <img align="left" alt="Jenkins" width="50" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
+<br clear="all" />
 <img align="left" alt="JSON" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" alt="Laravel" width="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MSSQL" width="50" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
