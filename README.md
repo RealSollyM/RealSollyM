@@ -1,6 +1,6 @@
-## Hello, my name is Solly Motsoane (RealSollyM)
-
 <img src="./assets/realsollym.png" alt="Real Solly M Github header image" />
+
+## Hello, my name is Solly Motsoane (RealSollyM)
 
 ### I am a Senior Software Developer with over 20 years of programming in different languages.
 
@@ -10,11 +10,11 @@
   - a Shopping Manager App
   - a Budget Management App
   - a Doctor Visitation App
-- 🌱 I’m currently learning Flutter, Angular 12 and Firebase
+- 🌱 I’m currently learning Flutter, Angular 14 and Firebase.
 - 👯 I’m looking to collaborate with other content creators.
 - 😄 Goals:
   - Short Term: Contribute more to Open Source.
-  - Short Term: Teach at least 1 person to code.
+  - Mid Term: Teach at least 1 person to code.
   - Long Term: Start a Coding Club in my area for upcoming developers.
 
 ---
@@ -28,11 +28,12 @@
 
 ### Languages, Frameworks and Tools:
 
-- [<img align="left" alt="Angular" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][website] Angular
-- [<img align="left" alt="ASP.net" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />][website] ASP.net
-- [<img align="left" alt="Bootstrap" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website] Bootstrap
-- [<img align="left" alt="CSS" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website] CSS
-- [<img align="left" alt="C#" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website] C#
+| [<img align="left" alt="Angular" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][website] Angular
+| [<img align="left" alt="ASP.net" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />][website] ASP.net
+| [<img align="left" alt="Bootstrap" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website] Bootstrap
+| [<img align="left" alt="CSS" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website] CSS
+| [<img align="left" alt="C#" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website] C#
+
 - [<img align="left" alt=".net" width="22" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][website] .NET
 - [<img align="left" alt="Flutter" width="22" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][website] Flutter
 - [<img align="left" alt="Git" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website] GIT
