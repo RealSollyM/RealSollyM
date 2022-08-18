@@ -38,8 +38,8 @@
 <img align="left" alt="Git" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Javascript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Jenkins" width="50" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
 <br />
+<img align="left" alt="Jenkins" width="50" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
 <img align="left" alt="JSON" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" alt="Laravel" width="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MSSQL" width="50" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
@@ -52,6 +52,8 @@
 <img align="left" alt="XML" width="50" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 
 <br clear="all" /><br />
+
+### Stats &amp; Streaks:
 
 ![RealSollyM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealSollyM&show_icons=true&theme=midnight-purple)
 ![RealSollyM's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealSollyM&theme=midnight-purple&date_format=j%20M%20Y)
