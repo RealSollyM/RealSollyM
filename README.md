@@ -1,8 +1,11 @@
 ## Hello, my name is Solly Motsoane (RealSollyM)
 
+<img src="./assets/realsollym.png" alt="Real Solly M Github header image" />
+
 ### I am a Senior Software Developer with over 20 years of programming in different languages.
+
 - 🔭 I’m currently working on ...
-  - a Stokvel App, 
+  - a Stokvel App,
 - which will be followed by ...
   - a Shopping Manager App
   - a Budget Management App
@@ -15,9 +18,11 @@
   - Long Term: Start a Coding Club in my area for upcoming developers.
 
 ---
+
 ### Contact Me
-[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][StackOverflow]
-[![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][LinkedIn]
+
+[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
+[![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][linkedin]
 [![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website]
 <br />
 
@@ -45,7 +50,6 @@
 - [<img align="left" alt="WordPress" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][website] WordPress
 - [<img align="left" alt="XML" width="22" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][website] XML
 
-
 <br />
 <a href="https://stackoverflow.com/users/1168597/realsollym" target="_blank">
 <img align="left" alt="RealSollyM's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /><img align="left" alt="RealSollyM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsollym&count_private=true&show_icons=true&theme=midnight-purple" /></a>
@@ -56,14 +60,13 @@
 <br /><br />
 
 [website]: https://sollym.co.za
-[StackOverFlow]: https://stackoverflow.com/users/1168597/realsollym
-[LinkedIn]: https://za.linkedin.com/in/realsollym
-[Telegram]: https:/t.me/realsollym
-[Twitter]: https://twitter.com/RealSollyM
-[Facebook]: https://facebook.com/RealSollyM
-[Instagram]: https://www.instagram.com/RealSollyM
-[GitHub]: https://www.github.com/RealSollyM
-
+[stackoverflow]: https://stackoverflow.com/users/1168597/realsollym
+[linkedin]: https://za.linkedin.com/in/realsollym
+[telegram]: https:/t.me/realsollym
+[twitter]: https://twitter.com/RealSollyM
+[facebook]: https://facebook.com/RealSollyM
+[instagram]: https://www.instagram.com/RealSollyM
+[github]: https://www.github.com/RealSollyM
 
 ![](https://hit.yhype.me/github/profile?user_id=12409199)
 
