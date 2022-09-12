@@ -1,4 +1,4 @@
-<img src="./assets/realsollym.png" alt="Real Solly M Github header image" />
+<a href="https://sollym.co.za" target="_blank"><img src="./assets/realsollym.png" alt="Real Solly M Github header image" /></a>
 
 ## Hello, my name is Solly Motsoane (RealSollyM)
 
