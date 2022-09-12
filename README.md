@@ -25,7 +25,8 @@
 
 ### Stats &amp; Streaks:
 ---
-![RealSollyM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealSollyM&show_icons=true&theme=midnight-purple) ![RealSollyM's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealSollyM&theme=midnight-purple&date_format=j%20M%20Y)
+<!-- ![RealSollyM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealSollyM&show_icons=true&theme=midnight-purple) -->
+![RealSollyM's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealSollyM&theme=midnight-purple&date_format=j%20M%20Y)
 
 <br /><br />
 
