@@ -19,13 +19,13 @@
 
 ### Contact Me
 
-[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1450-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
+[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1480-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][linkedin]
+[![Twitter: RealSollyM](https://img.shields.io/twitter/follow/realsollym?color=blue&label=%40realsollym&logo=twitter&logoColor=white&style=for-the-badge)][twitter]
 [![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website]
 
-### Stats &amp; Streaks:
+### Streaks:
 ---
-<!-- ![RealSollyM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealSollyM&show_icons=true&theme=midnight-purple) -->
 ![RealSollyM's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealSollyM&theme=midnight-purple&date_format=j%20M%20Y)
 
 <br /><br />
@@ -38,6 +38,7 @@
 [facebook]: https://facebook.com/RealSollyM
 [instagram]: https://www.instagram.com/RealSollyM
 [github]: https://www.github.com/RealSollyM
+[twitter]: https://twitter.com/RealSollyM
 
 ![](https://hit.yhype.me/github/profile?user_id=12409199)
 
