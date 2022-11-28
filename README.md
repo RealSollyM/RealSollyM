@@ -19,7 +19,7 @@
 
 ### Contact Me
 
-[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1480-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
+[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1510-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][linkedin]
 [![Twitter: RealSollyM](https://img.shields.io/twitter/follow/realsollym?color=blue&label=%40realsollym&logo=twitter&logoColor=white&style=for-the-badge)][twitter]
 [![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://sollym.co.za)][website]
