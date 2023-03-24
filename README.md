@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ...
   - a Debtor Management App (personal project),
   - a Multi-Tenant Member Management System (for 2 clients though their features will be different)
-- 🌱 I’m currently learning Angular 15 and Supabase.
+- 🌱 I’m currently learning Angular 15, Astro, Tailwind and Supabase.
 - 👯 I’m looking to collaborate with other content creators.
 - 😄 Goals:
   - Short Term: Contribute more to Open Source.
