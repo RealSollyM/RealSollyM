@@ -19,14 +19,21 @@
 
 ### Contact Me
 
-[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1510-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
+[![StackOverflow Reputation](https://img.shields.io/badge/stackoverflow-1530-orange?label=STACKOVERFLOW&logo=STACKOVERFLOW&style=for-the-badge)][stackoverflow]
 [![Linkedin: RealSollyM](https://img.shields.io/badge/CONNECT-500%2B-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/RealSollyM/)][linkedin]
 [![Twitter: RealSollyM](https://img.shields.io/twitter/follow/realsollym?color=blue&label=%40realsollym&logo=twitter&logoColor=white&style=for-the-badge)][twitter]
 [![Website: SollyM.co.za](https://img.shields.io/website?style=for-the-badge&url=https://www.sollym.co.za)][website]
 
-### Streaks:
 ---
+
+### Streaks
+
 ![RealSollyM's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealSollyM&theme=midnight-purple&date_format=j%20M%20Y)
+
+---
+
+### Trophies
+![](https://github-profile-trophy.vercel.app/?username=RealSollyM&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <br /><br />
 
@@ -42,17 +49,3 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=12409199)
 
-<!--
-**RealSollyM/RealSollyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
